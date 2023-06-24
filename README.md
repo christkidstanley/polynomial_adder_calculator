@@ -2,4 +2,4 @@
 
 This code used the data structure linked list to add to polynomials 
 
-# prerequistes:python code editor, Django web development framework
+prerequistes:python code editor, Django web development framework
